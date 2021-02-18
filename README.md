@@ -4,5 +4,5 @@ run on local server
 
 Reference for how box location is determined:
 
-![alt text](/assets/IMG_3318)
+![sketch of canvas](/assets/IMG_3318.jpg)
 
